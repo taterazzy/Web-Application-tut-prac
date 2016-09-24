@@ -1,0 +1,11 @@
+c:\users\0318482\documents\visual studio 2010\Projects\Prac2\Prac2\bin\Prac2.dll
+c:\users\0318482\documents\visual studio 2010\Projects\Prac2\Prac2\bin\Prac2.pdb
+c:\users\0318482\documents\visual studio 2010\Projects\Prac2\Prac2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\0318482\documents\visual studio 2010\Projects\Prac2\Prac2\obj\Debug\Prac2.dll
+c:\users\0318482\documents\visual studio 2010\Projects\Prac2\Prac2\obj\Debug\Prac2.pdb
+C:\Users\hongcl\Documents\Visual Studio 2015\Projects\Prac2\Prac2\bin\Prac2.dll.config
+C:\Users\hongcl\Documents\Visual Studio 2015\Projects\Prac2\Prac2\bin\Prac2.dll
+C:\Users\hongcl\Documents\Visual Studio 2015\Projects\Prac2\Prac2\bin\Prac2.pdb
+C:\Users\hongcl\Documents\Visual Studio 2015\Projects\Prac2\Prac2\obj\Debug\Prac2.csprojResolveAssemblyReference.cache
+C:\Users\hongcl\Documents\Visual Studio 2015\Projects\Prac2\Prac2\obj\Debug\Prac2.dll
+C:\Users\hongcl\Documents\Visual Studio 2015\Projects\Prac2\Prac2\obj\Debug\Prac2.pdb
